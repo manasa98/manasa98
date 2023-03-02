@@ -1,4 +1,6 @@
-### Hi there 👋
+### This is Manasa Nandimandalam! 
+
+I am currently a graduate student pursuing Data Analytics at Penn State Great Valley from India. Shifted my whole 
 
 <!--
 **manasa98/manasa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
