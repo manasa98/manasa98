@@ -1,7 +1,7 @@
 ### This is Manasa Nandimandalam! 
 #### Machine Learning Enthusiast | Python Developer | Deep Learning Novice
 
-I am currently a graduate student pursuing Data Analytics at Penn State Great Valley from India. Shifted my whole life across the seas from India to America.
+I am currently a graduate student from India, pursuing Data Analytics at Penn State Great Valley. Shifted my whole life across the seas from India to America.
 
 - 🔭 I’m currently working on Early Prediction of Sepsis
 - 👯 I’m looking to collaborate on any Data Science / Data Analytics / Data Visualization.
